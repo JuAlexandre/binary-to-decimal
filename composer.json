@@ -1,0 +1,17 @@
+{
+  "name": "wilder12/180419_binary",
+  "authors": [
+    {
+      "name": "Julien",
+      "email": "julien.alexandre26@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wcs\\": "src/"
+    }
+  }
+}
