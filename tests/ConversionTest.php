@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: wilder12
- * Date: 19/04/18
- * Time: 09:40
- */
 
 use PHPUnit\Framework\TestCase;
 use Wcs\Conversion;
